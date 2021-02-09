@@ -7,4 +7,4 @@ https://github.com/lcp-cloud/Java-Base-Gennaio-2021
 
 PER QUALUNQUE DOMANDA È POSSIBILE RIVOLGERSI AI NOSTRI CONTATTI
 
-NOTA: QUesto repository da solo non costituisce nè sostituisce l'attività didattica stessa nè in presenza nè a distanza.
+NOTA: Il materiale di questo repository - da solo - non costituisce nè sostituisce l'attività didattica stessa nè in presenza nè a distanza (DaD).
